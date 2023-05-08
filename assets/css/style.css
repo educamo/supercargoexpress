@@ -468,6 +468,13 @@ h6 {
     font-size: 24px;
 }
 
+#hero h3 {
+    color: #eee;
+    margin-bottom: 0px;
+    font-size: 18px;
+    margin-top: 20%;
+}
+
 #hero .play-btn {
     width: 94px;
     height: 94px;
