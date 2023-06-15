@@ -541,6 +541,16 @@ h6 {
     border-radius: 0;
 }
 
+#hero .rif {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10pt;
+    line-height: 0;
+    letter-spacing: -0.021em;
+    font-weight: 900;
+    font-style: italic;
+    color: #cbdaec;
+}
+
 @media (min-width: 1024px) {
     #hero {
         background-attachment: fixed;
