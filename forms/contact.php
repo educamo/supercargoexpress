@@ -11,7 +11,7 @@ if (empty($nombre) || empty($email) || empty($asunto) || empty($mensaje)) {
   echo "Por favor, rellene todos los campos.";
 } else {
   // Definir el destinatario y el asunto del email
-  $destinatario = "ejesust@gmail.com";
+  $destinatario = "contact@supercargoexpress.com";
 
   $asunto = "Formulario de contacto: " . $asunto;
 
